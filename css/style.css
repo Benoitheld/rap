@@ -1,0 +1,32 @@
+h1, h2, h3, h4 {
+	font-family: 'Montserrat Alternates', sans-serif;
+	font-weight: bold;
+}
+h4 {
+  font-style: italic;
+  text-align: right;
+}
+
+body {
+	font-family: 'Shippori Antique', sans-serif;
+	font-size: 18px;
+	margin: 0px
+}
+a{
+	text-decoration: none;
+}
+
+.list-inline{
+  list-style:none;
+  padding-left:0px;
+}
+.list-inline li{
+  display:inline;
+}
+.list-inline i{
+  color: rgb(230, 230, 230);
+  font-size: 50px;
+}
+.list-inline i:hover{
+  color:black;
+}
